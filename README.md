@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README will cover things found/done within the second app.
 
-Things you may want to cover:
+Things done:
 
-* Ruby version
+* Pushed to repository
 
-* System dependencies
+* Controllers and Routes
 
-* Configuration
+* Layout and Views
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Testing
