@@ -1,4 +1,5 @@
-<h1>StaticPages#about</h1>
-<%= link_to "home", static_pages_home_url %>
-<%= link_to "about", static_pages_about_url %>
-<%= link_to "faq", static_pages_faq_url %>
+<% provide(:title, "About") %>
+<h1>This is the About page</h1>
+<p>Welcome to the About page.</p>
+<%= render 'static_pages/partials/links' %>
+

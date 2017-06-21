@@ -1,4 +1,4 @@
-<h1>StaticPages#faq</h1>
-<%= link_to "home", static_pages_home_url %>
-<%= link_to "about", static_pages_about_url %>
-<%= link_to "faq", static_pages_faq_url %>
+<% provide(:title, "Faq") %>
+<%= render 'static_pages/partials/links' %>
+<h1>This is the Faq page</h1>
+<p>Welcome to the Faq page.</p>
